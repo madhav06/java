@@ -6,7 +6,7 @@ public class JavaAsterisk
   public static void main(String[] args){
     printAsterisk();
 
-    //st
+    //printAsterisk method used..
   }
   static void printAsterisk(){
 
